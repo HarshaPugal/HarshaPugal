@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshitha
 - 👀 I’m interested in coding and solving challenging problems related to AI
-- 🌱 I’m currently learning python, C
+- 🌱 I’m currently learning data science and python
 - 💞️ I’m looking to collaborate on AI projects, data mining projects in bigdata
 - 📫 How to reach me harshapugazhendhi@gmail.com
 
